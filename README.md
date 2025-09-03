@@ -60,12 +60,12 @@ source .venv/bin/activate
 * Reprodutibilidade: garante que o código funcione da mesma forma em qualquer máquina.
 * Segurança e controle de versões: você escolhe a versão das bibliotecas e do Python.
 
-📥 Instalação das Dependências:
+## 📥 Instalação das Dependências:
 
 ```bash
 pip install -r requirements.txt
 ```
-▶️ Executando o Projeto
+## ▶️ Executando o Projeto
 ```bash
 python main.py
 ```
