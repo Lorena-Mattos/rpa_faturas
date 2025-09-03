@@ -1,4 +1,4 @@
-# Projeto Faturas RPA
+# Desafio Faturas RPA
 
 Este projeto realiza a leitura de faturas disponíveis no endpoint do desafio RPA Challenge, baixa apenas as faturas vencidas ou que vencem hoje, salva em PDF e registra todas as informações em um CSV. Além disso, mantém logs detalhados de execução.
 
